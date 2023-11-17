@@ -56,6 +56,7 @@ namespace miniproject
                     textBox1.Clear();
                     textBox2.Clear();
                     textBox3.Clear();
+                    textBox1.Focus();
                 }
 
             }
